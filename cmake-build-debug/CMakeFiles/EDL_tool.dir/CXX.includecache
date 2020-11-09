@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jpmon/CLionProjects/EDL_tool/main.cpp
+iostream
+-
+vector
+-
+regex
+-
+util.h
+C:/Users/jpmon/CLionProjects/EDL_tool/util.h
+
+C:/Users/jpmon/CLionProjects/EDL_tool/util.h
+vector
+-
+string
+-
+

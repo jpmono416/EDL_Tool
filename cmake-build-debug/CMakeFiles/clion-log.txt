@@ -1,0 +1,4 @@
+C:\Users\jpmon\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\jpmon\CLionProjects\EDL_tool
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/jpmon/CLionProjects/EDL_tool/cmake-build-debug
